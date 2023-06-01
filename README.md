@@ -104,6 +104,3 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
