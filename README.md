@@ -14,7 +14,7 @@
 
 
 ### Glad to see you here!  
-I am a student developer skilled at developing python tools. My greatest strength is in building python tools, backend and linux scripting.
+I am a student developer skilled at developing python tools. My greatest strength is in building python tools,golang, backend and linux scripting.
 
 I eagerly take part in hackathons and collaborate with people in ideating and working together to build project prototypes that are sustainable solutions to real-world problems.
 
@@ -30,22 +30,18 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 - 🌱 I’m currently upskilling GoLang.  
   
 
-- ❓ Ask me about anything related to python, linux or privacy.   
+- ❓ Ask me about anything related to python, linux, privacy or a FOSS alternative app.
   
 
-- ⚡ Fun fact: All my devices have a modified OS installed.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.licdn.com/dms/image/C5616AQEPA5HpnGOr-g/profile-displaybackgroundimage-shrink_350_1400/0/1650112020098?e=1691020800&v=beta&t=M7T3HfVjVDzQLu91rwfAZuur1pu65UFyc94VbvmK6uA" align="center" style="width: 100%" />
-</div>  
+- ⚡ Fun fact: None of my devices have proprietary or closed source OS. I use FOSS OS (Arch Linux and De-Googled AOSP).  
 
 
 </td></tr></table>  
 
 <br/>  
+
+
+
 
 
 ## Languages and Tools  
@@ -79,23 +75,36 @@ I eagerly take part in hackathons and collaborate with people in ideating and wo
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=D0T7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=D0T7&show_icons=true&count_private=true&hide_border=true" style="max-width: 100%; height: auto;" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=D0T7&theme=light&hide_border=false" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" style="max-width: 100%; height: auto;" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=D0T7&theme=dark&no-frame=false&no-bg=true&margin-w=4" style="max-height: 200px; width: auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=D0T7&limit=5&theme=light&combine_all_yearly_contributions=true" style="max-height: 100%; width: auto;" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://randommeme-five.vercel.app/" style="height: 250px;" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
-  
-
 <br/>  
-
-  
 
 <br/>  
 
